@@ -4,7 +4,8 @@
   "description": "Web Crawler Project for SEO report",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/amanraina1/webCrawlerProject/issues"
   },
-  "homepage": "https://github.com/amanraina1/webCrawlerProject#readme"
+  "homepage": "https://github.com/amanraina1/webCrawlerProject#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
