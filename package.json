@@ -1,0 +1,19 @@
+{
+  "name": "webcrawlerproject",
+  "version": "1.0.0",
+  "description": "Web Crawler Project for SEO report",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanraina1/webCrawlerProject.git"
+  },
+  "author": "Aman Raina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanraina1/webCrawlerProject/issues"
+  },
+  "homepage": "https://github.com/amanraina1/webCrawlerProject#readme"
+}
