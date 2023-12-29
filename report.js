@@ -1,6 +1,6 @@
 function printReport(pages) {
   console.log("=============");
-  console.log("REPORT");
+  console.log("REPORT STARTS");
   console.log("=============");
   const sortedPages = sortPages(pages);
   for (const sortedPage of sortedPages) {
