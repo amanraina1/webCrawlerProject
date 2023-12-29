@@ -19,5 +19,8 @@
   "homepage": "https://github.com/amanraina1/webCrawlerProject#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^23.0.1"
   }
 }
